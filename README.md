@@ -6,7 +6,7 @@ I'm a reporter with the Wall Street Journal's Washington, DC bureau where I cove
 
 ## how to reach me
 
-Email is the best for routine, unsensitive matters: **[byron.tau@wsj.com](mailto:byron.tau@wsj.com)**. I am on Twitter at **[@byrontau](twitter.com/byrontau)** and my DMs are open to all. I'm also on **[LinkedIn](www.linkedin.com/in/byrontau)**
+Email is the best for routine, unsensitive matters: **[byron.tau@wsj.com](mailto:byron.tau@wsj.com)**. I am on Twitter at **[@byrontau](www.twitter.com/byrontau)** and my DMs are open to all. I'm also on **[LinkedIn](www.linkedin.com/in/byrontau)**
 
 ## secure communication
 
