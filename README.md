@@ -19,9 +19,9 @@ A reminder that end-to-end encryption is only as good as the ends and is still v
 The WSJ also maintains a Secure Drop, a secure communication platform designed for journalists and sources. Instructions are available **[here](https://www.wsj.com/tips)**
 
 Postal mail is als a great option — but keep in mind that the exterior of envelopes are scanned. I can be reached by postal mail at the address below:
-Byron Tau
-c/o Wall Street Journal
-1025 Connecticut Ave NW Suite 800
-Washington, D.C. 20036
+Byron Tau</br>
+c/o Wall Street Journal</br>
+1025 Connecticut Ave NW Suite 800</br>
+Washington, D.C. 20036</br>
 
 (One caveat: With the current COVID-19 emergency, I check my office mail very infrequently so expect significant delays in my ability to reply quickly. You may consider tipping me off electronically somehow that there is mail waiting for me.)
