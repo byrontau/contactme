@@ -6,7 +6,7 @@ I'm a reporter with the Wall Street Journal's Washington, DC bureau where I cove
 
 ## how to reach me
 
-Email is the best for routine, unsensitive matters: **[byron.tau@wsj.com](mailto:byron.tau@wsj.com)**. I am on Twitter at **[@byrontau](www.twitter.com/byrontau)** and my DMs are open to all. I'm also on **[LinkedIn](www.linkedin.com/in/byrontau)**
+Email is the best for routine, unsensitive matters: **[byron.tau@wsj.com](mailto:byron.tau@wsj.com)**. I am on Twitter at **[@byrontau](https://www.twitter.com/byrontau)** and my DMs are open to all. I'm also on **[LinkedIn](https://www.linkedin.com/in/byrontau)**
 
 ## secure communication
 
@@ -16,7 +16,7 @@ I also have Protonmail account, which is zero-knowledge end-to-end encrypted *on
 
 A reminder that end-to-end encryption is only as good as the ends and is still vulnerable in some cases. You should also give thought to retention. Signal, ProtonMail and Confide all have self-destructing mesage options, though that is not foolproof.  All method of communication involves some risk. 
 
-The WSJ also maintains a Secure Drop, a secure communication platform designed for journalists and sources. Instructions are available here: **[https://www.wsj.com/tips](https://www.wsj.com/tips)
+The WSJ also maintains a Secure Drop, a secure communication platform designed for journalists and sources. Instructions are available: **[here](https://www.wsj.com/tips)
 
 Postal mail is als a great option — but keep in mind that the exterior of envelopes are scanned. I can be reached by postal mail at the address below:
 Byron Tau
