@@ -10,7 +10,7 @@ Email is the best for routine, unsensitive matters: **[byron.tau@wsj.com](mailto
 
 ## secure communication
 
-For greater security, the number **+1 202-441-1171** belongs to me and is linked to **iMessage,** **Signal**, **Confide** **WhatsApp** and **Wickr**. All of those services are end-to-end encrypted, but they differ in the metadata collected about the communications. Most experts agree that Signal is probably the most secure. Be warned that Whatsapp is owned by Facebook and collects significant metadata about conversation between users. 
+For greater security, the number **+1 202-441-1171** belongs to me and is linked to **iMessage,** **Signal**, **Confide**, **WhatsApp** and **Wickr**. All of those services are end-to-end encrypted, but they differ in the metadata collected about the communications. Most experts agree that Signal is probably the most secure. Be warned that Whatsapp is owned by Facebook and collects significant metadata about conversation between users. 
 
 I also have Protonmail account, which is zero-knowledge end-to-end encrypted *only with other Protonmail users*. **[byron.tau@protonmail.com](mailto:byron.tau@protonmail.com)**
 
