@@ -16,7 +16,7 @@ I also have Protonmail account, which is zero-knowledge end-to-end encrypted *on
 
 A reminder that end-to-end encryption is only as good as the ends and is still vulnerable in some cases. You should also give thought to retention. Signal, ProtonMail and Confide all have self-destructing mesage options, though that is not foolproof.  All method of communication involves some risk. 
 
-The WSJ also maintains a Secure Drop, a secure communication platform designed for journalists and sources. Instructions are available **[here](https://www.wsj.com/tips).**
+The WSJ also maintains a Secure Drop, a secure communication platform designed for journalists and sources. Instructions are available **[here](https://www.wsj.com/tips).** Please mark the communication as intended for me so that it reaches me. 
 
 Postal mail is als a great option — but keep in mind that the exterior of envelopes are scanned. I can be reached by postal mail at the address below:
 
